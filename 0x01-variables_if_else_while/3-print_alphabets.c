@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+
 /**
  * main - returns alphabet in lower case and then in upper case
  *
@@ -20,5 +22,5 @@ putchar(CH);
 CH++;
 }
 putchar('\n');
-return 0;
+return (0);
 }
